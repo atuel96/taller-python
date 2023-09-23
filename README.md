@@ -37,8 +37,3 @@ _coming soon_
 ### _Continuará_ ...
 
 
-
-## Notebooks
-
-Iremos agregando las diferentes notebooks que vayamos usando aquí
-* Python 1 https://drive.google.com/file/d/1Dwx3rYvg8q10CG3b7c8CdKC01Pqo5BuY/view?usp=sharing
