@@ -2,8 +2,13 @@
 
 Este repositorio está dedicado a organizar el contenido del taller de Python y Física computacional dictado en 2023 en la Facultad de Ciencias Exactas y Técnología (FACET) de la Universidad Nacional de Tucumán (UNT).
 
-
 ## Clases
+
+### Clase 0: Preliminares
+
+Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos
+
+* [Preliminares](clases/clase00/README.md)
 
 ### Clase 1: Python Primera Parte [25 de octubre]
 
@@ -20,8 +25,6 @@ Este repositorio está dedicado a organizar el contenido del taller de Python y 
 * Control de Flujo con bloques if-else
 * Métodos de Strings
 * Importar Modulos
-
-
 
 ### Clase 2: Python Segunda Parte
 
