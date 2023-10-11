@@ -6,8 +6,8 @@ Este repositorio está dedicado a organizar el contenido del taller de Python y 
 
 Deben crear una copia en su cuenta, o no podrán guardar el progreso.
 
-* [Notebook clase 1 en Colab](https://drive.google.com/file/d/1Dwx3rYvg8q10CG3b7c8CdKC01Pqo5BuY/view?usp=sharing)
-* [Notebook clase 2 en Colab](https://drive.google.com/file/d/1B1hFdMAFkJo248XyiSRc8jDG94aAl0PZ/view?usp=sharing)
+* [Notebook parte 1 en Colab](https://drive.google.com/file/d/1Dwx3rYvg8q10CG3b7c8CdKC01Pqo5BuY/view?usp=sharing)
+* [Notebook parte 2 en Colab](https://drive.google.com/file/d/1B1hFdMAFkJo248XyiSRc8jDG94aAl0PZ/view?usp=sharing)
 ## Clases
 
 ### Clase 0: Preliminares
