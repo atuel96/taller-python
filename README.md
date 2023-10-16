@@ -10,11 +10,12 @@ Deben crear una copia en su cuenta, o no podrán guardar el progreso.
 * [Notebook parte 2 en Colab](https://drive.google.com/file/d/1B1hFdMAFkJo248XyiSRc8jDG94aAl0PZ/view?usp=sharing)
 ## Clases
 
-### Clase 0: Preliminares
+### Clase 0: Jupyter Lab
 
-Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos
+Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos un vídeo donde pueden ver como usar el editor [Visual Studio Code](https://code.visualstudio.com/).
 
-* [Preliminares](clases/clase00/README.md)
+* [Jupyter Lab](clases/clase00/README.md)
+* [(Opcional) Visual Studio Code](https://youtu.be/QEv5O3s4xKI)
 
 ### Clase 1: Python Primera Parte [25 de octubre]
 
