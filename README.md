@@ -56,7 +56,7 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 
 ### Clase 4: Métodos de Montecarlo
 
-* [Tutorial](clases/clase04-oct22/tutorial_montecarlo.pdf) 
+* [Tutorial](clases/clase04-oct22/tutorial_montecarlo_v2.pdf) 
 (Haremos los ejercicios en clase)
 ### _Continuará_ ...
 
