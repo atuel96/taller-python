@@ -45,6 +45,7 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 
 * [Notebook clase 3](clases/clase03-oct09/Python_clase_3.ipynb)
 * [Ejercicios clase 3](clases/clase03-oct09/ejercicios/ejercicios-clase-03.ipynb)
+* [Soluciones Ejercicios clase 3](clases/clase03-oct09/ejercicios/soluciones-ejercicios-clase-03.ipynb)
 
 #### Contenido
 * Bucles while y for
