@@ -59,7 +59,12 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 
 * [Tutorial Montecarlo](clases/clase04-oct23/tutorial_montecarlo_v2.pdf) 
 * [Notebook Numpy](clases/clase04-oct23/numpy.ipynb)
-(Haremos los ejercicios en clase)
+
+
+### Clase 5: Ecuaciones Diferenciales Ordinarias. Euler, Rungekutta y Diferencias Finitas
+
+* [Presentación EDOs](clases/clase05-oct30/EDOs.pdf)
+  
 ### _Continuará_ ...
 
 
