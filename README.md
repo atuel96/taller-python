@@ -62,9 +62,10 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 * [Notebook Numpy](clases/clase04-oct23/numpy.ipynb)
 
 
-### Clase 5: Ecuaciones Diferenciales Ordinarias. Euler, Rungekutta y Diferencias Finitas
+### Clase 5: Ecuaciones Diferenciales Ordinarias y Diferencias Finitas
 
-* [Presentación EDOs](clases/clase05-oct30/EDOs.pdf)
+* [Presentación EDOs y Diferencias Finitas](clases/clase05-oct30/EDOs.pdf)
+* [Notebook Euler y Runge-Kutta](clases/clase05-oct30/Notebook-Euler-RungeKutta.ipynb)
 * [Ejercicios Clase 5](clases/clase05-oct30/ejercicios/ejercicios-clase05.ipynb)
   
 ### _Continuará_ ...
