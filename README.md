@@ -72,7 +72,7 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 ### Clase 6: Autómatas Celulares
 
 * [Presentación Autómatas Celulares](clases/clase06-nov06/automatas_celulares.pdf)
-* [Ejercicios (TO DO)]()
+* [Ejercicios](clases/clase06-nov06/ejercicios/ejercicios_clase06.ipynb)
 ### _Continuará_ ...
 
 
