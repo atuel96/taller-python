@@ -59,8 +59,6 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 
 * [Tutorial Montecarlo](clases/clase04-oct23/tutorial_montecarlo_v2.pdf) 
 * [Notebook Montecarlo](clases/clase04-oct23/notebook_montecarlo.ipynb)
-* [Notebook Numpy](clases/clase04-oct23/numpy.ipynb)
-
 
 ### Clase 5: Ecuaciones Diferenciales Ordinarias y Diferencias Finitas
 
@@ -71,8 +69,12 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 
 ### Clase 6: Autómatas Celulares
 
+* [Notebook Numpy](clases/clase06-nov06/numpy.ipynb)
 * [Presentación Autómatas Celulares](clases/clase06-nov06/automatas_celulares.pdf)
 * [Ejercicios](clases/clase06-nov06/ejercicios/ejercicios_clase06.ipynb)
+
+
+
 ### _Continuará_ ...
 
 
