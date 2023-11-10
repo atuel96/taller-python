@@ -73,6 +73,7 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 * [Presentación Autómatas Celulares](clases/clase06-nov06/automatas_celulares.pdf)
 * [Ejercicios](clases/clase06-nov06/ejercicios/ejercicios_clase06.ipynb)
 * [Soluciones Ejercicios](clases/clase06-nov06/ejercicios/soluciones_ejercicios_clase06.ipynb)
+* [Notebook Automatas](clases/clase06-nov06/automatas.ipynb)
 
 ### Clase 7: Fourier
 
