@@ -74,6 +74,11 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 * [Ejercicios](clases/clase06-nov06/ejercicios/ejercicios_clase06.ipynb)
 
 
+### Clase 7: Fourier
+
+* [Tutorial Fourier](clases/clase07-nov13/tutorial_fourier.pdf)
+* [Ejercicios](clases/clase07-nov13/ejercicios/ejercicios_clase07.ipynb)
+
 
 ### _Continuará_ ...
 
