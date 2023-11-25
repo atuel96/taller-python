@@ -1,0 +1,13 @@
+Filename: SN_m_tot_V2.0.csv
+Format: Comma Separated values (adapted for import in spreadsheets)
+The separator is the semicolon ';'.
+
+Contents:
+Column 1-2: Gregorian calendar date
+- Year
+- Month
+Column 3: Date in fraction of year.
+Column 4: Monthly mean total sunspot number.
+Column 5: Monthly mean standard deviation of the input sunspot numbers.
+Column 6: Number of observations used to compute the monthly mean total sunspot number.
+Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
