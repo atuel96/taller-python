@@ -81,9 +81,11 @@ Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos
 * [Ejercicios](clases/clase07-nov13/ejercicios/ejercicios_clase07.ipynb)
 
 
-### Clase 8: Manejo de Datos
+### Clase 8: Pandas y Vpython
 
 * [Notebook Pandas - Matplotlib](clases/clase08-nov27/notebook_pandas_matplotlib.ipynb)
+* [Tutorial VPython](clases/clase08-nov27/tutorial_vpython.pdf)
 * [Ejercicios](clases/clase08-nov27/ejercicios/ejercicios_clasae08.ipynb)
+
 
 
