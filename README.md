@@ -1,4 +1,4 @@
-# Taller Python
+# Taller Python Versión 2023
 
 Este repositorio está dedicado a organizar el contenido del taller de Python y Física computacional dictado en 2023 en la Facultad de Ciencias Exactas y Técnología (FACET) de la Universidad Nacional de Tucumán (UNT).
 
