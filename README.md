@@ -1,93 +1,30 @@
-# Taller Python
+# Taller Python para Física Ed. 2024
 
-Este repositorio está dedicado a organizar el contenido del taller de Python y Física computacional dictado en 2023 en la Facultad de Ciencias Exactas y Técnología (FACET) de la Universidad Nacional de Tucumán (UNT).
+Este repositorio está dedicado a organizar el contenido del taller de Python y Física computacional dictado en 2024 en la Facultad de Ciencias Exactas y Técnología (FACET) de la Universidad Nacional de Tucumán (UNT).
 
-## Notebooks Python en Google Colab
+## Notebooks
 
-Deben crear una copia en su cuenta, o no podrán guardar el progreso.
+### Python
 
-* [Notebook parte 1 en Colab](https://drive.google.com/file/d/1Dwx3rYvg8q10CG3b7c8CdKC01Pqo5BuY/view?usp=sharing)
-* [Notebook parte 2 en Colab](https://drive.google.com/file/d/1B1hFdMAFkJo248XyiSRc8jDG94aAl0PZ/view?usp=sharing)
-## Clases
-
-### Clase 0: Jupyter Lab
-
-Aquí pueden ver como abrir Jupyter Lab desde la línea de comandos, y agregamos un vídeo donde pueden ver como usar el editor [Visual Studio Code](https://code.visualstudio.com/).
-
-* [Jupyter Lab](clases/clase00/README.md)
-* [(Opcional) Visual Studio Code](https://youtu.be/QEv5O3s4xKI)
-
-### Clase 1: Python Primera Parte [25 de octubre]
-
-* [Notebook clase 1](clases/clase01-sep25/Python_clase_1.ipynb)
-* [Ejercicios clase 1](clases/clase01-sep25/ejercicios/ejercicios-clase-01.ipynb)
-* [Soluciones Ejercicios clase 1](clases/clase01-sep25/ejercicios/soluciones-ejercicios-01.ipynb)
-#### Contenido
-
-* Sintaxis Básica de Python
-* Variables y Tipos de Datos
-* Operadores artiméticos, de comparacióna y lógicos
-* Control de Flujo con bloques if-else
-  
-
-### Clase 2: Python Segunda Parte
-
-* [Notebook clase 2](clases/clase02-oct02/Python_clase_2.ipynb)
-* [Ejercicios clase 2](clases/clase02-oct02/ejercicios/ejercicios-clase-02.ipynb)
-* [Soluciones Ejercicios clase 2](clases/clase02-oct02/ejercicios/soliciones-ejercicios-clase-02.ipynb)
-#### Contenido
-
-* Métodos de Strings
-* Importar Modulos
-* Estructuras de Datos (Listas, Diccionarios, Tuples)
-
-### Clase 3: Python Tercera Parte
-
-* [Notebook clase 3](clases/clase03-oct09/Python_clase_3.ipynb)
-* [Ejercicios clase 3](clases/clase03-oct09/ejercicios/ejercicios-clase-03.ipynb)
-* [Soluciones Ejercicios clase 3](clases/clase03-oct09/ejercicios/soluciones-ejercicios-clase-03.ipynb)
-
-#### Contenido
-* Bucles while y for
-* Funciones
-* Leer y Escribir Archivos (Input y Output)
-* matplotlib (primera parte)
-* numpy (primera parte)
+* [Sintaxis Básica](notebooks/00-sintaxis-basica.ipynb)
+* [Funciones](notebooks/01-funciones.ipynb)
+* [Métodos de Cadenas](notebooks/02-metodos-de-cadenas.ipynb)
+* [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
+* [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
+* [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
+* [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
+* [Importar Librerias](notebooks/07-importar-librerias.ipynb)
+* [Extras](notebooks/08-extras.ipynb)
 
 
-### Clase 4: Métodos de Montecarlo
+## Links Útiles
 
-* [Tutorial Montecarlo](clases/clase04-oct23/tutorial_montecarlo_v2.pdf) 
-* [Notebook Montecarlo](clases/clase04-oct23/notebook_montecarlo.ipynb)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Anaconda](https://www.anaconda.com/)
+* [Tutorial Oficial de Python (Español)](https://python-docs-es.readthedocs.io/es/3.12/tutorial/index.html)
+* [Tutorial Oficial de python (Inglés)](https://docs.python.org/3/tutorial/index.html)
 
-### Clase 5: Ecuaciones Diferenciales Ordinarias y Diferencias Finitas
-
-* [Presentación EDOs y Diferencias Finitas](clases/clase05-oct30/EDOs.pdf)
-* [Notebook Euler y Runge-Kutta](clases/clase05-oct30/Notebook-Euler-RungeKutta.ipynb)
-* [Ejercicios Clase 5](clases/clase05-oct30/ejercicios/ejercicios-clase05.ipynb)
-  
-
-### Clase 6: Autómatas Celulares
-
-* [Notebook Numpy](clases/clase06-nov06/numpy.ipynb)
-* [Presentación Autómatas Celulares](clases/clase06-nov06/automatas_celulares.pdf)
-* [Ejercicios](clases/clase06-nov06/ejercicios/ejercicios_clase06.ipynb)
-* [Soluciones Ejercicios](clases/clase06-nov06/ejercicios/soluciones_ejercicios_clase06.ipynb)
-* [Notebook Automatas](clases/clase06-nov06/automatas.ipynb)
-
-### Clase 7: Fourier
-
-* [Tutorial Fourier](clases/clase07-nov13/tutorial_fourier.pdf)
-* [Ejercicios](clases/clase07-nov13/ejercicios/ejercicios_clase07.ipynb)
-
-
-### Clase 8: Pandas y Vpython
-
-* [Notebook Pandas - Matplotlib](clases/clase08-nov27/notebook_pandas_matplotlib.ipynb)
-* [Tutorial VPython](clases/clase08-nov27/tutorial_vpython.pdf)
-* [Ejercicios](clases/clase08-nov27/ejercicios/ejercicios_clasae08.ipynb)
-
-
+* [Página de Matplotlib](https://matplotlib.org/)
 ## Material Recomendado
 
 
@@ -128,6 +65,15 @@ Este es otro libro que sigue un formato similar al anterior, con su versión web
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html 
 
+
+### The Missing Semester of Your CS Education
+#### (El semestre perdido de tu educación en Ciencias de la Computación)
+`(Videos/Textos en Inglés con algunas traducciones en Español)`
+
+Para quienes estén intersados en el mundo de la computación en general, este curso reune varios temas de conocimiento general que se suelen dar por sabidos en materias avanzadas. 
+
+https://missing.csail.mit.edu/ 
+
 ### Kaggle
 
 Por último, Kaggle es una página que contiene varios conjuntos de datos para practicar, realiza competencias de aprendizaje automático (de un nivel bastante elevado), y tiene una serie de cursos gratuitos que en su mayoría están bastante buenos. Recomendados el curso de Pandas y los de  Aprendizaje Automático (Machine Learning) en caso de que quieran empezar a explorar la ciencia de datos.
@@ -135,4 +81,3 @@ Por último, Kaggle es una página que contiene varios conjuntos de datos para p
 https://www.kaggle.com/ 
 
 (Ir a la sección de `Cursos` para ver los tutoriales disponibles)
-
