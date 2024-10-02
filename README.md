@@ -23,7 +23,6 @@ Este repositorio está dedicado a organizar el contenido del taller de Python y 
 * [Anaconda](https://www.anaconda.com/)
 * [Tutorial Oficial de Python (Español)](https://python-docs-es.readthedocs.io/es/3.12/tutorial/index.html)
 * [Tutorial Oficial de python (Inglés)](https://docs.python.org/3/tutorial/index.html)
-
 * [Página de Matplotlib](https://matplotlib.org/)
 ## Material Recomendado
 
