@@ -16,6 +16,15 @@ Este repositorio está dedicado a organizar el contenido del taller de Python y 
 * [Importar Librerias](notebooks/07-importar-librerias.ipynb)
 * [Extras](notebooks/08-extras.ipynb)
 
+### Aplicaciones en Física
+
+[En Construción]
+
+* Métodos de Montecarlo
+* Resolución de EDOs Métodos de Runge-Kutta
+* Autómatas Celulares
+* Análisis de Fourier
+* Vpython
 
 ## Links Útiles
 
