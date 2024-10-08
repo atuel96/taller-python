@@ -13,7 +13,12 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Video Usar Python desde Anaconda con Jupyter](https://youtu.be/hyhflI6e8c0) 
 
 
-## Notebooks
+
+## Contenido
+
+### Terminal
+
+* [Comandos Básicos Terminal](markdown/00-terminal.md)
 
 ### Python
 
