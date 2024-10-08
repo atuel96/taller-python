@@ -2,6 +2,17 @@
 
 Este repositorio está dedicado a organizar el contenido del taller de Python y Física computacional dictado en 2024 en la Facultad de Ciencias Exactas y Técnología (FACET) de la Universidad Nacional de Tucumán (UNT).
 
+## Instalación Python
+
+Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/success) y usar el editor de texto [Visual Studio Code](https://code.visualstudio.com/).
+
+#### Videos
+
+* [Video Instalación Anaconda](https://youtu.be/BE-vKz91Rlw)
+* [Video Usar Python desde Anaconda con VS Code](https://youtu.be/d7tYjrlDRgo)
+* [Video Usar Python desde Anaconda con Jupyter](https://youtu.be/hyhflI6e8c0) 
+
+
 ## Notebooks
 
 ### Python
