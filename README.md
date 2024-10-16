@@ -22,9 +22,16 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 ### Python
 
+#### Clase 1
 * [Sintaxis Básica](notebooks/00-sintaxis-basica.ipynb)
+
+#### Clase 2
 * [Funciones](notebooks/01-funciones.ipynb)
 * [Métodos de Cadenas](notebooks/02-metodos-de-cadenas.ipynb)
+
+**Ejercicios**: [Ejercicios Clase 2](ejercicios/clase-02/ejercicios-clase-02.ipynb)
+
+#### Clase 3
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
 * [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
