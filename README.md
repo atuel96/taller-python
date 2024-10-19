@@ -77,9 +77,16 @@ Para quien tenga problemas con el inglés hay una versión de las clases con sub
 ### CS50 Python, de Harvard
 `(Curso en Inglés)`
 
-Este curso se enfoca solamente en Python, por lo tanto esta bueno para quienes solamente quieran mejorar su base en eñ lenguaje, sin preocuparse de otros aspectos más básicos de la computación.
+Este curso se enfoca solamente en Python, por lo tanto esta bueno para quienes solamente quieran mejorar su base en el lenguaje, sin preocuparse de otros aspectos más básicos de la computación.
 
 https://cs50.harvard.edu/python/
+
+
+### Python for Computations - Python
+`(Libro en Inglés)`
+
+Libro gratuito introdutorio a simulaciones numéricas con python https://link.springer.com/book/10.1007/978-3-030-16877-3
+
 
 ### Python Data Science Hanndbook
 `(Libro en Inglés)`
