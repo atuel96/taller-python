@@ -34,6 +34,11 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase 3
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
+
+**Ejercicios**: [Ejercicios Clase 3](ejercicios/clase-03/ejercicios-clase-03.ipynb)
+
+#### Calse 4
+
 * [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
 * [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
 * [Importar Librerias](notebooks/07-importar-librerias.ipynb)
