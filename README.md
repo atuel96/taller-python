@@ -30,6 +30,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Métodos de Cadenas](notebooks/02-metodos-de-cadenas.ipynb)
 
 **Ejercicios**: [Ejercicios Clase 2](ejercicios/clase-02/ejercicios-clase-02.ipynb)
+**Soluciones**: [Soluciones Ejercicios Clase 2](ejercicios/clase-02/soluciones-ejercicios-clase-02.ipynb)
 
 #### Clase 3
 * [Control de Flujo](notebooks/03-control-de-flujo.ipynb)
