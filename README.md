@@ -57,6 +57,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 ## Links Útiles
 
+* [PEP 8](https://peps.python.org/pep-0008/) (Guía de estilo oficial)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)
 * [Tutorial Oficial de Python (Español)](https://python-docs-es.readthedocs.io/es/3.12/tutorial/index.html)
