@@ -41,8 +41,12 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Calse 4
 
 * [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
-* [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
 * [Importar Librerias](notebooks/07-importar-librerias.ipynb)
+
+**Ejercicios** : [Ejercicios Clase 4](ejercicios/clase-04/ejercicios-clase-04.ipynb)
+
+#### Notebooks Extras:
+* [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
 * [Extras](notebooks/08-extras.ipynb)
 
 ### Aplicaciones en Física
