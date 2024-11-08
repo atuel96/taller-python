@@ -43,6 +43,8 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
 * [Importar Librerias](notebooks/07-importar-librerias.ipynb)
 
+* [Ejemplo Método de Newton](scripts/newton.py)
+
 **Ejercicios** : [Ejercicios Clase 4](ejercicios/clase-04/ejercicios-clase-04.ipynb)
 
 #### Notebooks Extras:
