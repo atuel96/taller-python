@@ -51,6 +51,12 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
 * [Extras](notebooks/08-extras.ipynb)
 
+
+#### Clase 5
+
+* [Montecarlo Introducción y Ejercicios](clases/Montecarlo/tutorial_montecarlo_v2.pdf)
+* [Notebook Montecarlo](clases/Montecarlo/notebook_montecarlo.ipynb)
+
 ### Aplicaciones en Física
 
 [En Construción]
