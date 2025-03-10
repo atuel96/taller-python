@@ -37,7 +37,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Estructuras de Datos](notebooks/04-estructuras-de-datos.ipynb)
 
 **Ejercicios**: [Ejercicios Clase 3](ejercicios/clase-03/ejercicios-clase-03.ipynb)
-
+**Soluciones**: [Soluciones Ejercicios Clase 3](ejercicios/clase-03/soluciones-ejercicios-clase-03.ipynb)
 #### Calse 4
 
 * [Bucles y Recursividad](notebooks/05-bucles-y-recursividad.ipynb)
@@ -46,26 +46,37 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 * [Ejemplo Método de Newton](scripts/newton.py)
 
 **Ejercicios** : [Ejercicios Clase 4](ejercicios/clase-04/ejercicios-clase-04.ipynb)
+**Soluciones**: [Soluciones Ejercicios Clase 4](ejercicios/clase-04/ejercicios-clase-04-solucion.ipynb)
 
 #### Notebooks Extras:
 * [Leer y Escribir Archivos](notebooks/06-leer-y-escribir-archivos.ipynb)
 * [Extras](notebooks/08-extras.ipynb)
 
+### Aplicaciones en Física
 
-#### Clase 5
+#### Clase Montecarlo
 
 * [Montecarlo Introducción y Ejercicios](clases/Montecarlo/tutorial_montecarlo_v2.pdf)
 * [Notebook Montecarlo](clases/Montecarlo/notebook_montecarlo.ipynb)
 
-### Aplicaciones en Física
 
-[En Construción]
+#### Clase EDOs
 
-* Métodos de Montecarlo
-* Resolución de EDOs Métodos de Runge-Kutta
-* Autómatas Celulares
-* Análisis de Fourier
-* Vpython
+* [EDOs](clases/EDOs/EDOs.pdf)
+* [Notebook Métodos Euler y Runge-Kutta](clases/EDOs/Notebook-Euler-RungeKutta.ipynb)
+
+**Ejercicios**: [Ejercicios EDOs](ejercicios/Ejercicios-EDOs/ejercicios-EDOs.ipynb)
+
+
+#### Clase Analisis de Fourier
+
+
+### Herramientas
+
+#### Pandas y Matplotlib
+
+#### Vpython
+
 
 ## Links Útiles
 
