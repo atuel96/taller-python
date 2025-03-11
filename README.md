@@ -73,7 +73,9 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 ### Herramientas
 
-#### Pandas y Matplotlib
+#### Manejo de Datos
+
+* [Notebook Pandas y Matplotlib](notebooks/notebook_pandas_matplotlib.ipynb)
 
 #### Vpython
 
