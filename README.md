@@ -71,6 +71,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 #### Clase Analisis de Fourier
 
 * [Tutorial Fourier](clases/Fourier/tutorial_fourier.pdf)
+
 **Ejercicios**: [Notebook Ejercicios Fourier](clases/Fourier/ejercicios/ejercicios_clase_fourier.ipynb)
 * Datos: [rz_data.txt](clases/Fourier/ejercicios/rz_data.txt)
 
@@ -83,6 +84,7 @@ Recomedamos instalar python desde [Anaconda](https://www.anaconda.com/download/s
 
 #### Vpython
 
+* [Tutorial Vpython](clases/Vpython/tutorial_vpython.pdf)
 
 ## Links Útiles
 
